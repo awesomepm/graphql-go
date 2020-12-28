@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Monica Geller",
+        "age": 17,
+        "friends": [2, 3]
+    },
+    {
+        "id": 2,
+        "name": "Rachel Green",
+        "age": 17,
+        "friends": [1]
+    },
+    {
+        "id": 3,
+        "name": "Ross Geller",
+        "age": 19,
+        "friends": [1]
+    },
+    {
+        "id": 4,
+        "name": "Joey Tribbiani",
+        "age": 18
+    },
+    {
+        "id": 5,
+        "name": "Chandler Bing",
+        "age": 18,
+        "friends": [3]
+    },
+    {
+        "id": 5,
+        "name": "Phoebe Buffay",
+        "age": 21
+    }
+]
